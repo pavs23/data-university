@@ -23,3 +23,7 @@ This is not a list of things you should know, just a list of things I've come ac
 ### NoSQL
 [KDNuggets - Top NoSQL Databases](https://www.kdnuggets.com/2016/06/top-nosql-database-engines.html)
 
+## Datasets
+
+[Github - Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
