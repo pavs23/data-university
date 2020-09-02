@@ -26,4 +26,5 @@ This is not a list of things you should know, just a list of things I've come ac
 ## Datasets
 
 [Github - Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+[KDNuggets - Datasets Homepage](https://www.kdnuggets.com/datasets/index.html)
 
