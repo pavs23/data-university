@@ -11,8 +11,14 @@ This is not a list of things you should know, just a list of things I've come ac
 
 
 ## Data Engineering
+
+### Real-time Data Infra
+* [Go-Jek Data Engineering Platform](https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929)
+
 ### Stream Processing 
 * Kafka Streams
+
+
 
 ### Batch Processing
 * Spark
