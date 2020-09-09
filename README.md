@@ -38,6 +38,10 @@ This is not a list of things you should know, just a list of things I've come ac
 [UCI - Machine Learning Repo](https://archive.ics.uci.edu/ml/index.php)
 
 
+## Useful Git Repos
+### Data Streaming
+* [For Running Kafka locally for spikes] (https://github.com/confluentinc/cp-docker-images)
+
 ### Under Evaluation
 * https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b
 * https://towardsdatascience.com/5-tips-for-kickstarting-your-data-career-8f3491f62a07
