@@ -37,6 +37,10 @@ This is not a list of things you should know, just a list of things I've come ac
 
 [UCI - Machine Learning Repo](https://archive.ics.uci.edu/ml/index.php)
 
+## Statistics
+* https://www.edx.org/course/statistical-learning
+* https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
+
 
 ## Useful Git Repos
 ### Data Streaming
