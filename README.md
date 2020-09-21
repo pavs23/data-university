@@ -3,6 +3,18 @@ A repository to record my learnings around data engineering, warehousing, analyt
 
 This is not a list of things you should know, just a list of things I've come across in my own learning.
 
+## Data Science
+* [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
+
+## Machine Learning
+### Websites
+*  [Made with ML](www.https://madewithml.com/)
+
+
+### Courses
+* [Machine Learning CS229 - Stanford University - Andrew Ng](https://see.stanford.edu/Course/CS229)
+* [Machine Learning - Coursera - Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
+
 ## Data Warehousing
 ### Storage
 [AWS Blog - Columnar Storage in Redshift](https://docs.aws.amazon.com/redshift/latest/dg/c_columnar_storage_disk_mem_mgmnt.html)
@@ -42,10 +54,13 @@ This is not a list of things you should know, just a list of things I've come ac
 * https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
 * https://decision.substack.com/p/statistics-the-complete-mini-course
 
+## Probability
+* [Advanced Algorithms Probability Refresher - UNSW Sydney - Aleksander Ignatovic](http://www.cse.unsw.edu.au/%7Ecs4121/lectures_2019/prob.pdf)
+
 
 ## Useful Git Repos
 ### Data Streaming
-* [For Running Kafka locally for spikes] (https://github.com/confluentinc/cp-docker-images)
+* [For Running Kafka locally for spikes](https://github.com/confluentinc/cp-docker-images)
 
 ### Under Evaluation
 * https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b
