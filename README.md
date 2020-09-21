@@ -8,7 +8,7 @@ This is not a list of things you should know, just a list of things I've come ac
 
 ## Machine Learning
 ### Websites
-*  [Made with ML](www.https://madewithml.com/)
+* [Made with ML](https://madewithml.com/)
 
 
 ### Courses
