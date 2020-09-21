@@ -53,6 +53,7 @@ This is not a list of things you should know, just a list of things I've come ac
 * https://www.edx.org/course/statistical-learning
 * https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
 * https://decision.substack.com/p/statistics-the-complete-mini-course
+* [Introduction to Statistical Learning - pdf](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 
 ## Probability
 * [Advanced Algorithms Probability Refresher - UNSW Sydney - Aleksander Ignatovic](http://www.cse.unsw.edu.au/%7Ecs4121/lectures_2019/prob.pdf)
