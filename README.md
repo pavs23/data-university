@@ -40,6 +40,7 @@ This is not a list of things you should know, just a list of things I've come ac
 ## Statistics
 * https://www.edx.org/course/statistical-learning
 * https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
+* https://decision.substack.com/p/statistics-the-complete-mini-course
 
 
 ## Useful Git Repos
