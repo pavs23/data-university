@@ -3,6 +3,9 @@ A repository to record my learnings around data engineering, warehousing, analyt
 
 This is not a list of things you should know, just a list of things I've come across in my own learning.
 
+## Data History
+* [A Brief History of Data](https://www.weforum.org/agenda/2015/02/a-brief-history-of-big-data-everyone-should-read/)
+
 ## Data Science
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
 
