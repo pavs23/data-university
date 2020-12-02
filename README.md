@@ -32,6 +32,7 @@ This is not a list of things you should know, just a list of things I've come ac
 
 ### Stream Processing 
 * Kafka Streams
+* Spark Streaming
 
 
 
