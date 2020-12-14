@@ -3,6 +3,19 @@ A repository to record my learnings around data engineering, warehousing, analyt
 
 This is not a list of things you should know, just a list of things I've come across in my own learning.
 
+**Sections**
+* Data History
+* Data Science
+* Machine Learning
+* Data Warehousing
+* Data Engineering
+* Databases
+* Datasets
+* Statistics
+* Probability
+* Useful Git Repos
+
+
 ## Data History
 * [A Brief History of Data](https://www.weforum.org/agenda/2015/02/a-brief-history-of-big-data-everyone-should-read/)
 
